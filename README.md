@@ -5,7 +5,7 @@
 
 
 <h2>Project Implementation</h2>
-<img align="left" alt="Holly Dowdle Project" width="500px" height="800px" src="https://drive.google.com/file/d/1GaDPwwadKK2Hn3kjDmIv3eacJAC6G-g9/view?usp=sharing" />
+<src="https://drive.google.com/file/d/1GaDPwwadKK2Hn3kjDmIv3eacJAC6G-g9/view?usp=sharing" />
 <img align="left" alt="Holly Dowdle CSIS" width="50px" height="50px" src="https://i.imgur.com/MSY8Sdv.png" />
 <img align="left" alt="Holly Dowdle CySA" width="50px" height="50px" src="https://i.imgur.com/92Gkytb.png" />
 <img align="left" alt="Holly Dowdle CSAP" width="50px" height="50px" src="https://i.imgur.com/NlH1Oxt.png" />
