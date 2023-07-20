@@ -5,17 +5,7 @@
 
 
 <h2>Project Implementation</h2>
-<src="https://drive.google.com/file/d/1GaDPwwadKK2Hn3kjDmIv3eacJAC6G-g9/view?usp=sharing" />
-<img align="left" alt="Holly Dowdle CSIS" width="50px" height="50px" src="https://i.imgur.com/MSY8Sdv.png" />
-<img align="left" alt="Holly Dowdle CySA" width="50px" height="50px" src="https://i.imgur.com/92Gkytb.png" />
-<img align="left" alt="Holly Dowdle CSAP" width="50px" height="50px" src="https://i.imgur.com/NlH1Oxt.png" />
-<img align="left" alt="Holly Dowdle CNVP" width="50px" height="50px" src="https://i.imgur.com/sPkgkTa.png" />
-<img align="left" alt="Holly Dowdle Pentest" width="50px" height="50px" src="https://i.imgur.com/fza6N0v.png" />
-<img align="left" alt="Holly Dowdle Security" width="50px" height="50px" src="https://i.imgur.com/tiocJTg.png)" />
-<img align="left" alt="Holly Dowdle Network" width="50px" height="50px" src="https://i.imgur.com/K6drGd3.png" />
-<img align="left" alt="Holly Dowdle CIOS" width="50px" height="50px" src="https://i.imgur.com/Oe66AQk.png" />
-<img align="left" alt="Holly Dowdle Project" width="50px" height="50px" src="https://i.imgur.com/QoQViLz.png" />
-<img align="left" alt="Holly Dowdle A+" width="50px" height="50px" src="https://i.imgur.com/ssopeTO.png" />
+Link to document - "https://drive.google.com/file/d/1GaDPwwadKK2Hn3kjDmIv3eacJAC6G-g9/view?usp=sharing"
 
 <br/>
 <br/>
