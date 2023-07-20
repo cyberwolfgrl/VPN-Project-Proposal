@@ -7,13 +7,17 @@
 <h2>Project Implementation</h2>
 Link to document - "https://drive.google.com/file/d/1GaDPwwadKK2Hn3kjDmIv3eacJAC6G-g9/view?usp=sharing"
 
+
+<h2>Project After Action Report</h2>
+Link to document - "https://drive.google.com/file/d/1T0O9-KNdUX7dJPNt0R1Z3Js-xflPfPd3/view?usp=sharing"
+
 <br/>
 <br/>
 <br/>
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/holly-dowdle-53b8b8128
 
